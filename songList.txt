@@ -1,0 +1,52 @@
+Song ID	Title	Album	Date Added
+3982025	Dance	1nonly	4/4/2023
+4869560	New Gold	Tame Impala	4/4/2023
+3535781	Trance	Travis Scott	4/4/2023
+4866049	Astrothunder	Travis Scott	4/4/2023
+4189997	im so happy	EKKSTACY	4/4/2023
+2498449	Stay With Me	1nonly	4/4/2023
+3141578	GHOSTKILLA	1nonly	4/4/2023
+9774302	Notion	The Rare Occasions	4/4/2023
+4029876	505	Artic Monkeys	4/4/2023
+9866974	Stronger	Kanye West	4/4/2023
+5436334	its alright :)	Kevin Walkman	4/4/2023
+9785834	Get It Together	Drake	4/4/2023
+6145413	SPIT IN MY FACE	ThxSoMch	4/4/2023
+7874479	Moon and Stars	1nonly	4/4/2023
+8377335	Eventually	Tame Impala	4/4/2023
+5810203	MANIC MAN	Curtis Waters	4/4/2023
+4531614	Less Than Zero	The Weeknd	4/4/2023
+4988194	Moth To A Flame	The Weeknd	4/4/2023
+2964931	Talk	Omar Apollo	4/4/2023
+5980192	Highlight	Omar Apollo	4/4/2023
+4517278	Miss You - Sped up	southstar	4/4/2023
+3904502	Apartment	Young the Giant	4/4/2023
+3280806	I'm Still Standing	Elton John	4/4/2023
+6618763	luna llena	Bumboi	4/4/2023
+7860982	Let it Happen	Tame Impala	4/4/2023
+
+3982025	Dance	1nonly	4/4/2023
+4869560	New Gold	Tame Impala	4/4/2023
+3535781	Trance	Travis Scott	4/4/2023
+4866049	Astrothunder	Travis Scott	4/4/2023
+4189997	im so happy	EKKSTACY	4/4/2023
+2498449	Stay With Me	1nonly	4/4/2023
+3141578	GHOSTKILLA	1nonly	4/4/2023
+9774302	Notion	The Rare Occasions	4/4/2023
+4029876	505	Artic Monkeys	4/4/2023
+9866974	Stronger	Kanye West	4/4/2023
+5436334	its alright :)	Kevin Walkman	4/4/2023
+9785834	Get It Together	Drake	4/4/2023
+6145413	SPIT IN MY FACE	ThxSoMch	4/4/2023
+7874479	Moon and Stars	1nonly	4/4/2023
+8377335	Eventually	Tame Impala	4/4/2023
+5810203	MANIC MAN	Curtis Waters	4/4/2023
+4531614	Less Than Zero	The Weeknd	4/4/2023
+4988194	Moth To A Flame	The Weeknd	4/4/2023
+2964931	Talk	Omar Apollo	4/4/2023
+5980192	Highlight	Omar Apollo	4/4/2023
+4517278	Miss You - Sped up	southstar	4/4/2023
+3904502	Apartment	Young the Giant	4/4/2023
+3280806	I'm Still Standing	Elton John	4/4/2023
+6618763	luna llena	Bumboi	4/4/2023
+7860982	Let it Happen	Tame Impala	4/4/2023
